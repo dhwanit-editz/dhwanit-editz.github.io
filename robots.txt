@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dhwanit-editz.github.io/sitemap.xml
